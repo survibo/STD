@@ -1,0 +1,1 @@
+Index 파일내에 index.html이 메인 파일입니다!
